@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.182338c7.chunk.css",
+    "main.js": "/portfolio/static/js/main.a676ef4d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a676ef4d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.5a77938d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5a77938d.js.map",
+    "static/js/2.f97fab0b.chunk.js": "/portfolio/static/js/2.f97fab0b.chunk.js",
+    "static/js/2.f97fab0b.chunk.js.map": "/portfolio/static/js/2.f97fab0b.chunk.js.map",
+    "static/js/3.73c1de61.chunk.js": "/portfolio/static/js/3.73c1de61.chunk.js",
+    "static/js/3.73c1de61.chunk.js.map": "/portfolio/static/js/3.73c1de61.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.182338c7.chunk.css.map": "/portfolio/static/css/main.182338c7.chunk.css.map",
+    "static/js/2.f97fab0b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f97fab0b.chunk.js.LICENSE.txt",
+    "static/media/VolzerResume.22a35edc.pdf": "/portfolio/static/media/VolzerResume.22a35edc.pdf",
+    "static/media/alternativewordings.27f6df82.PNG": "/portfolio/static/media/alternativewordings.27f6df82.PNG",
+    "static/media/campuscrawl.f9e6ec1c.jpg": "/portfolio/static/media/campuscrawl.f9e6ec1c.jpg",
+    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
+    "static/media/psalter.7473c2c0.PNG": "/portfolio/static/media/psalter.7473c2c0.PNG",
+    "static/media/spanishgame.b1961016.PNG": "/portfolio/static/media/spanishgame.b1961016.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a77938d.js",
+    "static/js/2.f97fab0b.chunk.js",
+    "static/css/main.182338c7.chunk.css",
+    "static/js/main.a676ef4d.chunk.js"
+  ]
+}
